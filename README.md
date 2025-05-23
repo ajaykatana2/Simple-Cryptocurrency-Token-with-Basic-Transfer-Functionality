@@ -17,7 +17,7 @@ The vision for this project is to create an accessible entry point into cryptocu
 - **Security checks**: Prevent common errors like transfers to zero addresses or spending more tokens than available
 - **Events**: Emit standardized events for transfers and approvals to facilitate off-chain monitoring
 
-## Future Scope
+## Future Scope:
 - **Token burning**: Implement functionality to permanently remove tokens from circulation
 - **Minting mechanism**: Add the ability to create new tokens after initial deployment
 - **Pausable transfers**: Allow contract administrators to temporarily pause token transfers in emergency situations
